@@ -3,7 +3,7 @@ body {
 }
 .MAIN {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: clamp(3.125rem, -3.9773rem + 28.4091vw, 18.75rem);
+  font-size: clamp(6.25rem, 0.5682rem + 22.7273vw, 18.75rem);
   color: white;
 }
 .TRN {
